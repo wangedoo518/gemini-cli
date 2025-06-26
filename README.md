@@ -1,4 +1,4 @@
-# Gemini CLI
+# Gemini CLI Pro
 
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
 
